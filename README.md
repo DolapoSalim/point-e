@@ -6,7 +6,11 @@ This is the official code and model release for [Point-E: A System for Generatin
 
 # Usage
 
-Install with `pip install -e .`.
+Install with `pip install -e .`. 
+
+``` py
+# remember to add the last full stop behind it
+```
 
 To get started with examples, see the following notebooks:
 
